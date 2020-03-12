@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="retry">Gagal Memuat !!!,Tap Untuk Ulangi</string>
+    <string name="judul">Judul</string>
+</resources>
